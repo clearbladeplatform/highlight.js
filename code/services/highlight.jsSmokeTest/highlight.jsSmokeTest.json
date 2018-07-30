@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,highlight.js",
+    "logging_enabled": "false",
+    "name": "highlight.jsSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "highlight.jsSmokeTest.js"
+}
